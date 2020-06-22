@@ -25,7 +25,6 @@ package main
 // 	}
 // }
 func main() {
-	//new update
 
 	// go logger()
 	// logCh <- logEntry{name: "Gowtham"}
