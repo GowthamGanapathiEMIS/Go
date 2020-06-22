@@ -1,7 +1,5 @@
 package main
 
-import "sync"
-
 // var wg = sync.WaitGroup{}
 
 // type Ball struct {
@@ -27,8 +25,7 @@ import "sync"
 // 	}
 // }
 func main() {
-
-	
+	//new update
 
 	// go logger()
 	// logCh <- logEntry{name: "Gowtham"}
